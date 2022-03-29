@@ -8,7 +8,7 @@
 }
 .FeedbackOptions__btn:hover {
   color: #fff;
-  background-color: rgb(101, 168, 245);
+  background-color: rgb(245, 101, 202);
 }
 .FeedbackOptions__btn:not(:last-child) {
   margin-right: 10px;
