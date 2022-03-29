@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reract-repo/static/css/main.02e37444.css",
+    "main.css": "/reract-repo/static/css/main.2d8c6f5e.css",
     "main.js": "/reract-repo/static/js/main.edf6d805.js",
     "static/js/787.18b1c7f1.chunk.js": "/reract-repo/static/js/787.18b1c7f1.chunk.js",
     "index.html": "/reract-repo/index.html",
-    "main.02e37444.css.map": "/reract-repo/static/css/main.02e37444.css.map",
+    "main.2d8c6f5e.css.map": "/reract-repo/static/css/main.2d8c6f5e.css.map",
     "main.edf6d805.js.map": "/reract-repo/static/js/main.edf6d805.js.map",
     "787.18b1c7f1.chunk.js.map": "/reract-repo/static/js/787.18b1c7f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02e37444.css",
+    "static/css/main.2d8c6f5e.css",
     "static/js/main.edf6d805.js"
   ]
 }
